@@ -111,13 +111,13 @@ for(i in seq_along(origin_rules)){
 
 The script downloads each file to the archive folder.
 
-<img src="ch51.PNG" width="75%" />
+<img src="https://github.com/reynard-fox/archive_tlc_rules/blob/414f82e8902fbf9a2c4fdd63a08f1499864f302a/ch51.png" width="75%" />
 
 ### Output Preview
 
 We downloaded all 20 chapters in a few seconds.
 
-<img src="rule_book_current_chapter_51_pg1.JPG" width="65%" />
+<img src="https://github.com/reynard-fox/archive_tlc_rules/blob/414f82e8902fbf9a2c4fdd63a08f1499864f302a/rule_book_current_chapter_51_pg1.jpg" width="65%" />
 
 ## Next Steps
 
