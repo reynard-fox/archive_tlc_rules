@@ -1,6 +1,6 @@
 # Created by: Michael Anderson
 # Created on: 03/09/2019
-# Purpose: Create historical log of Taxi and Limosine Commission rules
+# Purpose: Create historical log of Taxi and Limousine Commission rules
 
 ###############################################
 ##  Set Up
